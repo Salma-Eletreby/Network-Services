@@ -1,0 +1,6 @@
+john_doe mypassword123 admin
+jane_smith 987654 writer
+alex_garcia password2022 reader
+emily_wilson p@ssw0rd admin
+michael_lee writer123 reader
+sarah_jones securepass2023 writer
